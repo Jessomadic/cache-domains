@@ -5,6 +5,11 @@
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
 		},
+        {
+			"name": "bitdefender",
+			"description": "CDN for Bitdefender",
+			"domain_files": ["bitdefender.txt"]
+		},
 		{
 			"name": "blizzard",
 			"description": "CDN for blizzard/battle.net",
